@@ -1,0 +1,6 @@
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\bin\Debug\ViZhinerCode.exe.config
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\bin\Debug\ViZhinerCode.exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\bin\Debug\ViZhinerCode.pdb
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\obj\Debug\ViZhinerCode.csprojResolveAssemblyReference.cache
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\obj\Debug\ViZhinerCode.exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\ViZhinerCode\ViZhinerCode\obj\Debug\ViZhinerCode.pdb
